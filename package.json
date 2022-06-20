@@ -1,5 +1,5 @@
 {
-  "name": "example_package",
+  "name": "jaimin_sheladiya",
   "version": "0.0.1",
   "description": "example package for 1",
   "main": "index.js",
@@ -10,5 +10,13 @@
     "example"
   ],
   "author": "jaimin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaiminSheladiya/example_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JaiminSheladiya/example_package/issues"
+  },
+  "homepage": "https://github.com/JaiminSheladiya/example_package#readme"
 }
